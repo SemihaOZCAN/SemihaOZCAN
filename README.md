@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=semihaozcan&show_icons=true&locale=en" alt="semihaozcan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=semihaozcan&" alt="semihaozcan" /></p>
+
+
+![snake gif](https://github.com/SemihaOZCAN/SemihaOZCAN/blob/output/github-contribution-grid-snake.gif)
