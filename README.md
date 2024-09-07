@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **flutter developer**,**C# developer**
+- 🔭 I’m currently working on **flutter developer**,**C# developer**,**SAP ABAP Programming**
 
 - 📫 How to reach me **semihaozcnn@gmail.com**
 
